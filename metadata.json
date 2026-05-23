@@ -1,0 +1,6 @@
+{
+  "name": "Aura Real-Time Earning Hub",
+  "description": "A full-stack real-time earning suite with auto-confirmed user registration, weekly profit plans, tire ranks with daily salaries, and a real-time admin controller for deposits/withdrawals, rank payouts, and server-side configurations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
